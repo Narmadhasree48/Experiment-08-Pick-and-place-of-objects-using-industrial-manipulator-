@@ -82,6 +82,7 @@ https://drive.google.com/file/d/1-xFavzANpXdz8ajBL7LiseMDU_DCeZhI/view?usp=drive
 ![Screenshot 2024-04-22 113307](https://github.com/Narmadhasree48/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979451/ccbb8b2f-a18a-4224-aabe-00635bd50a4a)
 ![Screenshot 2024-04-22 113327](https://github.com/Narmadhasree48/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979451/7f7f76e2-e782-4521-bd26-9676a65fd844)
 ## Robot action:
-![Screenshot 2024-04-22 153753](https://github.com/Narmadhasree48/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979451/5577948c-863f-45c1-81e7-ed2f4391b8b0)![Screenshot 2024-04-22 153818](https://github.com/Narmadhasree48/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979451/362586bd-ec8c-4253-b266-4f024e3044ee)
+![Screenshot 2024-04-22 154158](https://github.com/Narmadhasree48/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979451/091a270d-1937-4c62-9d57-b67cd385fb9f)
+
 ### Results: 
 Thus, the experiment to pick and place a regular shape using two finger gripper on the conveyor belt is sucessfully completed.
