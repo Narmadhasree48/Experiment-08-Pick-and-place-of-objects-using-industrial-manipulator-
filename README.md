@@ -35,8 +35,7 @@ Parallel & adaptive gripping
 Gripping & drop detection
 Force & position adjustment
 Self-locking
-
-                  ![ag-95](https://user-images.githubusercontent.com/36288975/201618444-9b5a4749-9663-464d-814b-170217763a76.png)
+             ![ag-95](https://user-images.githubusercontent.com/36288975/201618444-9b5a4749-9663-464d-814b-170217763a76.png)
 ### Figure -01 DH gripper with two finger gripper 
 
 #### Specifications
@@ -49,9 +48,6 @@ Gripper Weight	1kg
 Position repeatability	0.03mm
 Supply voltage	24VDC±10%
 Current	≤1.5A
-
-
-
 ### Doosan M1013 industrial collaborative robot manipulator 
 Doosan Robotics designs collaborative robots for all types of operators, from engineers to teachers to designers of industrial robotics solutions. There are currently 4 robotic arms in the range, including this M1013 ROS robotic arm. With 6 degrees of freedom and a total reach of 1,300 mm, the Doosan M1013 Robotic Arm offers the speed and precision of execution necessary for all types of automated operation.
 
@@ -65,9 +61,6 @@ Repeatability: ±0.1 mm.
 Operating temperature: 5–45 °C.
 Weight: 33 kg.
 Installation position: floor, ceiling, walls.
-
-
-
 ![download](https://user-images.githubusercontent.com/36288975/201624230-89cc83ff-cecd-49ea-84c6-c67066e9d157.jpg)
 
 ### Figure -02 Doosan M1013 industrial collaborative robot manipulator 
@@ -80,36 +73,15 @@ Installation position: floor, ceiling, walls.
 and click on the connect icon 
 
 3. click on the 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### output video and screen shots of pick and place 
-
-
-
-
-
-
-
+## video
+https://drive.google.com/file/d/1-xFavzANpXdz8ajBL7LiseMDU_DCeZhI/view?usp=drive_link
+## program:
+![Screenshot 2024-04-22 113248](https://github.com/Narmadhasree48/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979451/917e5519-22b3-44c1-80b4-a7cd9d3e592f)
+![Screenshot 2024-04-22 113259](https://github.com/Narmadhasree48/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979451/283b6033-31e7-47bf-a9c9-d7319b36540b)
+![Screenshot 2024-04-22 113307](https://github.com/Narmadhasree48/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979451/ccbb8b2f-a18a-4224-aabe-00635bd50a4a)
+![Screenshot 2024-04-22 113327](https://github.com/Narmadhasree48/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979451/7f7f76e2-e782-4521-bd26-9676a65fd844)
+## Robot action:
+![Screenshot 2024-04-22 153753](https://github.com/Narmadhasree48/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979451/5577948c-863f-45c1-81e7-ed2f4391b8b0)![Screenshot 2024-04-22 153818](https://github.com/Narmadhasree48/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979451/362586bd-ec8c-4253-b266-4f024e3044ee)
 ### Results: 
-
-
-
-
-
-
+Thus, the experiment to pick and place a regular shape using two finger gripper on the conveyor belt is sucessfully completed.
